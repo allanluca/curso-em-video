@@ -1,0 +1,51 @@
+
+.calculadora{
+    width: 333px;
+    height: 330px;
+    background-color:transparent;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+} 
+
+body,html{
+    margin: 0%;
+    height: 100%;
+
+    border-style:double;
+    font-size: 1m;
+    text-align: center;
+    color: brown;
+}
+
+.visor input{
+    margin: 10px;
+    width: 310px;
+    height: 40px;
+    text-align: left;
+    font-size: 25px;
+}
+.igual input{
+background-color: blue;
+width: 10px;
+margin-left:  30px;
+
+}
+
+.bg{
+    background-image: url("fundo1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+
+
+  
+   
+
+
+
+    
